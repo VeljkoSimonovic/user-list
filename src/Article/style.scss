@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+.articlediv {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+  margin: 1px auto 1px auto;
+  img {
+    display: block;
+  }
+}
+.articlediv1 {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: 1px solid gray;
+  margin: 5px 20px 5px 20px;
+  img {
+    display: block;
+    width: 100%;
+  }
+}

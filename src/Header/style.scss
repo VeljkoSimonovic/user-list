@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.headerdiv {
+  width: 100%;
+  margin: auto;
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  h1 {
+    color: white;
+  }
+}

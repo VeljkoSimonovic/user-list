@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+.articlecontainer {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
